@@ -40,9 +40,9 @@ const config = {
       announcementBar: {
         id: 'join-us',
         content:
-          'We\'re looking to this is a bruh moment',
-          backgroundColor: '#fafbfc',
-          textColor: '#091E42',
+          '⚡️ Like what you see? <a href="https://github.com/YouthCodingWorkshops/hiring" target="_blank">Come join us!</a>',
+          backgroundColor: '#0e67b6',
+          textColor: '#fafbfc',
           isCloseable: true
       },
 
